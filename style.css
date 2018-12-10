@@ -20,3 +20,18 @@ h2{
 p{
   font-size: 14px;
 }
+.btn-facebook {
+  background: #00acee;
+  border-color: #009ad5;
+}
+.btn-twitter {
+  background: #4868ac;
+  border-color: #314776;
+}
+.btn-linkedin {
+  background: #b62f26;
+  border-color: #b62f26;
+}
+#social-buttons button {
+  color: blue;
+}
