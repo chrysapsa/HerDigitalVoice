@@ -1,6 +1,7 @@
 body{
   background: #5F9EA0;
   font-family: arial;
+    padding-top: 70px;
 }
 h1{
   font-size: 18px;
@@ -40,7 +41,4 @@ p{
   background-size: cover;
   background-attachment: fixed;
   min-height: 200px;
-}
-body {
-  padding-top: 70px;
 }
