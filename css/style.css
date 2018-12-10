@@ -35,3 +35,9 @@ p{
 #social-buttons button {
   color: blue;
 }
+.jumbotron{
+  background-image: url('../images/google-assistant.jpg');
+  background-size: cover;
+  background-attachment: fixed;
+  min-height: 600px;
+}
