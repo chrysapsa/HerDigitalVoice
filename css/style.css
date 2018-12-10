@@ -3,6 +3,7 @@ body{
   font-family: arial;
   padding-top: 100px;
 }
+
 h1{
   font-size: 18px;
 
@@ -41,4 +42,7 @@ p{
   background-size: cover;
   background-attachment: fixed;
   min-height: 400px;
+}
+.navbar{
+  font-size: 24;
 }
