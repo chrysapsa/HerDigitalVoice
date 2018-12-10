@@ -41,3 +41,6 @@ p{
   background-attachment: fixed;
   min-height: 200px;
 }
+body {
+  padding-top: 70px;
+}
